@@ -57,6 +57,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Author
 
-[Your Name]
+Aparna
 
 Feel free to customize the content and structure of the README file according to your project's specific requirements and guidelines.
